@@ -1,2 +1,2 @@
-# Maintenance-page
-维护中的页面
+# HiMCBBS-Maintenance-page
+HiMCBBS维护中的页面
